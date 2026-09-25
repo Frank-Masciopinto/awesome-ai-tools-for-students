@@ -5,7 +5,7 @@
 > A curated list of AI tools that help students study, research, write, and revise, with no answer services and nothing you cannot afford.
 
 <!-- counts:start -->
-![Tools](https://img.shields.io/badge/tools-73-informational)
+![Tools](https://img.shields.io/badge/tools-74-informational)
 ![Categories](https://img.shields.io/badge/categories-11-informational)
 <!-- counts:end -->
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen)
@@ -71,7 +71,7 @@ Tools that work from a document you supply rather than from memory.
 - **[Mindgrasp](https://mindgrasp.ai/)** — Builds notes and questions from a video, a PDF, or a recorded lecture. `Freemium` `Web`
 - **[Recall](https://www.recall.it/)** — Saves what you read into a linked knowledge base instead of a bookmark pile. `Freemium` `Web` `Browser Extension`
 - **[SciSpace](https://scispace.com/)** — Explains dense passages in a paper and pulls findings into a comparison table. `Freemium` `Web`
-
+- **[SummarizAI](https://summarizai.ink)** — Chrome extension that adds summary, chapters, chat, and Study flashcards on YouTube lectures. `Freemium` `Browser Extension`
 ## Flashcards and revision
 
 Spaced repetition, and the tools that build the cards for you.
